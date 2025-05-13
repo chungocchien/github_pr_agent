@@ -1,1 +1,1 @@
-FROM codiumai/pr-agent:github_action
+FROM codingassistant/github_pr_agent:latest
